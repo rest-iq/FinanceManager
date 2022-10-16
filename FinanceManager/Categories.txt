@@ -1,0 +1,14 @@
+4
+1
+Tech
+0
+2
+Shop
+0
+3
+Salary
+1
+4
+Food
+0
+
