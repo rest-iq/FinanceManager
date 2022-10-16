@@ -26,3 +26,4 @@ The program works correctly! This is the plan according to which the code was ex
 //
 //Можливість зберегти звіт в файл.
 ```
+![alt text](Imeges/1.png "Preview")
